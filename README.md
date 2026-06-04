@@ -14,10 +14,10 @@ Me especializo en construir arquitecturas backend robustas, automatización de p
 *Plataforma Full-Stack para gestión logística en tiempo real.*
 * **Tech:** React + FastAPI + Neon (PostgreSQL) + WebSockets.
 * **Impacto:** Permite a múltiples operarios gestionar entregas simultáneamente mediante pistolas lectoras de códigos de barras, actualizando el estado global en tiempo real sin recargar la base de datos.
-* [Ver Repositorio](LINK_A_TU_REPO_TNE) | [Ver Demo](LINK_A_TU_VERCEL_TNE)
+* [Ver Repositorio](https://github.com/nimoragao/tne-registro_public) | [Ver Demo](https://tne-registro.vercel.app/#/)
 
 #### [Panel Analítico y BI (Retail & Finanzas)](LINK_A_TU_STREAMLIT)
 *Suite de herramientas gerenciales de Inteligencia de Negocios.*
 * **Tech:** Python + Streamlit + Plotly + SQL.
 * **Impacto:** Dashboards interactivos con bases de datos en vivo (Neon) que permiten aplicar *cross-filtering* dinámico para el análisis de ventas, cálculo de rentabilidad y gestión financiera.
-* [Ver Repositorio](LINK_A_TU_REPO_STREAMLIT) | [Ver Demo](LINK_A_TU_STREAMLIT)
+* [Ver Repositorio](https://github.com/zubza/demo-retail-dashboard) | [Ver Demo](https://demo-retail-dashboard-mzavdreav67lr3mj5nophw.streamlit.app/)
