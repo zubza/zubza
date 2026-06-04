@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hola, soy Nicolás Moraga
 
-<!--
-**zubza/zubza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador de Software & Data Engineer**
+Me especializo en construir arquitecturas backend robustas, automatización de procesos de datos (ETL) y el desarrollo de herramientas de Inteligencia de Negocios (BI). Me apasiona transformar el caos logístico y de datos en sistemas eficientes y visualmente claros.
 
-Here are some ideas to get you started:
+### Stack Tecnológico
+* **Backend & Datos:** Python (FastAPI, Streamlit), Pandas, SQL (PostgreSQL, Oracle), MongoDB.
+* **Frontend:** React, Vite.
+* **Arquitectura & Infraestructura:** WebSockets (Real-time), automatización con GitHub Actions, despliegues en Vercel y Render.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyectos Destacados
+
+#### [Sistema de Control Operativo TNE](LINK_A_TU_VERCEL_TNE)
+*Plataforma Full-Stack para gestión logística en tiempo real.*
+* **Tech:** React + FastAPI + Neon (PostgreSQL) + WebSockets.
+* **Impacto:** Permite a múltiples operarios gestionar entregas simultáneamente mediante pistolas lectoras de códigos de barras, actualizando el estado global en tiempo real sin recargar la base de datos.
+* [Ver Repositorio](LINK_A_TU_REPO_TNE) | [Ver Demo](LINK_A_TU_VERCEL_TNE)
+
+#### [Panel Analítico y BI (Retail & Finanzas)](LINK_A_TU_STREAMLIT)
+*Suite de herramientas gerenciales de Inteligencia de Negocios.*
+* **Tech:** Python + Streamlit + Plotly + SQL.
+* **Impacto:** Dashboards interactivos con bases de datos en vivo (Neon) que permiten aplicar *cross-filtering* dinámico para el análisis de ventas, cálculo de rentabilidad y gestión financiera.
+* [Ver Repositorio](LINK_A_TU_REPO_STREAMLIT) | [Ver Demo](LINK_A_TU_STREAMLIT)
